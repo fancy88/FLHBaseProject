@@ -1,0 +1,6 @@
+wifi: yanfaoffice
+password: 6631838383
+
+$(SRCROOT)/WangliIntelligence/GolbalPCH.pch
+
+6424.1
